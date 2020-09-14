@@ -43,17 +43,17 @@ textarea {
   border-top: 1px dashed #000000;
 }
 
-.past, .text-6am, .text-7am, .text-8am, .text-9am, .text-10am, .text-11am, .text-12am {
+.past, #text-6am, #text-7am, #text-8am, #text-9am, #text-10am, #text-11am {
   background-color: #d3d3d3;
   color: white;
 }
 
-.present {
+.present, #text-12pm {
   background-color: #ff6961;
   color: white;
 }
 
-.future {
+.future, #text-1pm, #text-2pm, #text-3pm, #text-4pm, #text-5pm, #text-6pm {
   background-color: #77dd77;
   color: white;
 }
